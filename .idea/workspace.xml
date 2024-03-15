@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d8d89a9-30d7-4e61-8a30-06ae4023758c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2XrKtFcAtMWQ6vFc8kFkvvnCM0D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wojte/AppData/Local/SceneBuilder/SceneBuilder.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dydaktyka\JavaWyk2017\Programy-IntelliJ\lab04\gui\src\main\resources" />
+      <recent name="E:\Dydaktyka\JavaWyk2017\Programy-IntelliJ\lab04\gui\src\main\java\pl\edu\pwr\tkubik\jp\lab04\gui" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dydaktyka\JavaWyk2017\Programy-IntelliJ\lab04\gui\src\main\resources\pl.edu.pwr.tkubik.jp.lab04.gui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloApplication">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pwr.tkubik.jp.lab04.client.Client" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pwr.tkubik.jp.lab04.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pwr.tkubik.jp.lab04.gui.HelloApplication" />
+      <module name="gui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pwr.tkubik.jp.lab04.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBDCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pwr.tkubik.jp.lab04.client.JBDCDemo" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pwr.tkubik.jp.lab04.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherDataDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pwr.tkubik.jp.lab04.client.WeatherDataDAO" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pwr.tkubik.jp.lab04.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebDataGetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.edu.pwr.tkubik.jp.lab04.client.WebDataGetter" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.edu.pwr.tkubik.jp.lab04.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JBDCDemo" />
+      <item itemvalue="Application.WeatherDataDAO" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.WebDataGetter" />
+      <item itemvalue="Application.HelloApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.WeatherDataDAO" />
+        <item itemvalue="Application.JBDCDemo" />
+        <item itemvalue="Application.WebDataGetter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d8d89a9-30d7-4e61-8a30-06ae4023758c" name="Changes" comment="" />
+      <created>1699381973019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699381973019</updated>
+      <workItem from="1699381974072" duration="1741000" />
+      <workItem from="1699383733592" duration="3151000" />
+      <workItem from="1699388879658" duration="801000" />
+      <workItem from="1699871972655" duration="2975000" />
+      <workItem from="1699880483485" duration="2062000" />
+      <workItem from="1699891873899" duration="1353000" />
+      <workItem from="1700576664357" duration="7013000" />
+      <workItem from="1700663514766" duration="8098000" />
+      <workItem from="1700749773720" duration="5775000" />
+      <workItem from="1700760659124" duration="7774000" />
+      <workItem from="1700775348816" duration="350000" />
+      <workItem from="1700775708502" duration="71000" />
+      <workItem from="1700775787875" duration="464000" />
+      <workItem from="1700776261969" duration="323000" />
+      <workItem from="1700865195710" duration="1246000" />
+      <workItem from="1700936177558" duration="5095000" />
+      <workItem from="1700941360529" duration="706000" />
+      <workItem from="1700942113262" duration="1026000" />
+      <workItem from="1701030241814" duration="869000" />
+      <workItem from="1701096481493" duration="54000" />
+      <workItem from="1701292135386" duration="624000" />
+      <workItem from="1702290904859" duration="1592000" />
+      <workItem from="1705434259959" duration="15000" />
+      <workItem from="1705920125933" duration="633000" />
+      <workItem from="1710504865022" duration="881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
